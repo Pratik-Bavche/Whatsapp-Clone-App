@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme with ActionBar -->
+    <style name="Base.Theme.Whatsapp" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/teal_200</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor" tools:targetApi="21">@color/colorPrimaryDark</item>
+    </style>
+
+    <!-- App theme -->
+    <style name="Theme.Whatsapp" parent="Base.Theme.Whatsapp" />
+</resources>
