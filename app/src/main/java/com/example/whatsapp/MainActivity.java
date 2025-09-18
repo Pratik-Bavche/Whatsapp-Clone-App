@@ -58,11 +58,14 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
     private void Settings() {
-
+        Intent intent=new Intent(MainActivity.this,SettingsActivity.class);
+        startActivity(intent);
     }
 
     private void groupChats() {
-        Toast.makeText(this, "Groupchat is open", Toast.LENGTH_SHORT).show();
+//        Toast.makeText(this, "Groupchat is open", Toast.LENGTH_SHORT).show();
+        Intent intent=new Intent(MainActivity.this,GroupChatActivity.class);
+        startActivity(intent);
     }
 
     private void Logout() {
