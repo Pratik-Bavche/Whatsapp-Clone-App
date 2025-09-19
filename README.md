@@ -38,3 +38,5 @@ Designing a clean and intuitive UI that resembles real-world messaging apps
 This project demonstrates practical skills in mobile app development, real-time database integration, cloud services, and user authentication, making it a full-fledged messaging app ready for deployment.
 
 #AndroidDevelopment #Firebase #Java #MobileApp #RealTimeChat #GoogleAuthentication #WhatsAppClone #AppDevelopment #TechInnovation
+
+# Note - All the Source codes is in the master branch
