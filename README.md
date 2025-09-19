@@ -1,6 +1,7 @@
 # Project Launch: WhatsApp Clone App 📱 – Chat, Share, Connect Instantly
 
 I’m excited to announce the completion of my WhatsApp Clone App, an Android application designed to provide a real-time messaging experience with modern chat features, group communication, and media sharing. This project leverages Firebase for backend services and Google Authentication for secure user login.
+# This application gives users a real WhatsApp-like experience
 
 # Tech Stack Used:
 
