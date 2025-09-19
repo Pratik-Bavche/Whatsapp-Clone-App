@@ -39,4 +39,4 @@ This project demonstrates practical skills in mobile app development, real-time 
 
 #AndroidDevelopment #Firebase #Java #MobileApp #RealTimeChat #GoogleAuthentication #WhatsAppClone #AppDevelopment #TechInnovation
 
-# Note - All the Source codes is in the master branch
+# Note - All the Source code is in the master branch
